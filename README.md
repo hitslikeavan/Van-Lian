@@ -1,20 +1,21 @@
-# Van-Lian
 👋 Hi, I’m Van
 
-I’m an IT Analyst with hands-on experience supporting enterprise environments across large, multi-site healthcare organizations. My background includes Windows systems, networking fundamentals (TCP/IP, DNS, DHCP), Active Directory, Microsoft Entra ID, and infrastructure troubleshooting in high-availability environments.
+I’m an IT Analyst building toward System Administration and Cloud Engineering, with hands-on experience supporting enterprise environments across nearly 200 healthcare facilities. My background includes Windows systems administration, Active Directory and Microsoft Entra ID management, networking fundamentals (TCP/IP, DNS, DHCP, VLANs), and troubleshooting infrastructure issues in high-availability environments.
 
-I’m currently focused on expanding into cloud and infrastructure engineering. I’ve built foundational knowledge in Java and object-oriented programming through academic coursework, and I’m actively developing skills in AWS, Linux, and automation to bridge the gap between traditional IT operations and modern cloud platforms.
+I hold a Bachelor’s degree in Information Technology and have foundational knowledge of Java and object-oriented programming, which strengthens my analytical and systems-thinking approach. I’m currently deepening my expertise in Linux, AWS, and automation to bridge traditional infrastructure with modern cloud architectures.
 
-🔧 What I’m Working On
+🔧 Current Focus
 
-Deepening Linux and networking expertise
+Linux systems administration
 
-AWS architecture and cloud fundamentals
+AWS architecture and core services
 
 Infrastructure as Code (Terraform / CloudFormation)
 
-Python for automation
+Python & Bash for automation
 
-🎯 Career Goal
+Networking and cloud security fundamentals
 
-Transition into Cloud Engineering, focusing on scalable infrastructure, automation, and reliable systems design.
+🎯 Career Direction
+
+Transitioning into System Administration and Cloud Engineering roles where I can design, automate, and support scalable, resilient infrastructure.
